@@ -11,3 +11,9 @@ html, body {
     color: var(--text-color);
 }
 
+.ejmbutton {
+    background: #c278ce;
+        color: #121212;
+        border-color: #c278ce;
+}
+
